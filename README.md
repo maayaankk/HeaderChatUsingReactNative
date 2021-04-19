@@ -9,8 +9,8 @@ expo init my-project <br>
 npm start or expo start
 
 ## React-Navigation
-npm install @react-navigation/native
-or
+npm install @react-navigation/native <br>
+              or<br>
 yarn add @react-navigation/native
 
 A React Navigation app is a chain of navigators that define the screen flow of your app. ... Each navigator comes with various configuration options we can define in plain Javascript. E.g. the header behaviour of a stack, or the icons and style of your tabs.
