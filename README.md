@@ -14,3 +14,6 @@ npm install @react-navigation/native <br>
 yarn add @react-navigation/native
 
 A React Navigation app is a chain of navigators that define the screen flow of your app. ... Each navigator comes with various configuration options we can define in plain Javascript. E.g. the header behaviour of a stack, or the icons and style of your tabs.
+
+## Views and mobile development
+In Android and iOS development, a view is the basic building block of UI: a small rectangular element on the screen which can be used to display text, images, or respond to user input. Even the smallest visual elements of an app, like a line of text or a button, are kinds of views. Some kinds of views can contain other views. It’s views all the way down!
