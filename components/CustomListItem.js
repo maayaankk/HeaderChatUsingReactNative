@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { ListItem, Avatar } from 'react-native-elements';
 import { db, auth } from '../firebase';
 
-const CustomListItem = ({ id, chatName, enterChat }) => {
+const CustomListElement = ({ id, chatName, enterChat }) => {
 
     const [chatMessages, setChatMessages] = useState([]);
 
@@ -34,6 +34,6 @@ const CustomListItem = ({ id, chatName, enterChat }) => {
     )
 }
 
-export default CustomListItem
+export default CustomListElement
 
 const styles = StyleSheet.create({})
