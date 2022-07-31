@@ -20,3 +20,5 @@ In Android and iOS development, a view is the basic building block of UI: a smal
 
 ## Native Components#
 In Android development, you write views in Kotlin or Java; in iOS development, you use Swift or Objective-C. With React Native, you can invoke these views with JavaScript using React components. At runtime, React Native creates the corresponding Android and iOS views for those components. Because React Native components are backed by the same views as Android and iOS, React Native apps look, feel, and perform like any other apps. We call these platform-backed components Native Components.
+
+## React Native
